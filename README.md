@@ -24,3 +24,5 @@
 [5](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/laskarit/5.md)
 [6](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/laskarit/6.md)
 [7](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/laskarit/7.md)
+
+## Joku vaadittu muutos
